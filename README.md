@@ -2,6 +2,7 @@ You must decompress Data1 and Data2.
 This script was created with the "jupyter notebook".
 
 Preprocessing only filled the missing data. 
+Missing values were filled with regression prediction.
 This is because the value of RMSE dropped when it attempted to normalize.
 
 XGBoost was used for modeling. 
